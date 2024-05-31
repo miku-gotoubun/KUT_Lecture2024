@@ -3,7 +3,7 @@ D_FF_NonSyncRST→非同期リセット付きD-FF
 
 両方ともコンパイル済
 
-test3_2は上記２つのverilogHDLのテストベンチである。
+test3_2は上記２つのverilogHDLのテストベンチである。まだシミュレーションしていない。
 
 ### 注意事項！！  
 iverilogの場合は、テストベンチで$stop関数を消して、$finish関数を使う。
