@@ -1,4 +1,4 @@
-D_FF_SyncRST→同期リセット付きD-FF
+D_FF_SyncRST→同期リセット付きD-FF  
 D_FF_NonSyncRST→非同期リセット付きD-FF
 
 両方ともコンパイル済
